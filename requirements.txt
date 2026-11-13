@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+requests
+matplotlib
+scipy
+statsmodels
+arch
+jupyter
